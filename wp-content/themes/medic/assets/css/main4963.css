@@ -65,7 +65,7 @@ a {
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   text-decoration: none;
-  color: #78C1F3;
+  color: #99627A;
 }
 
 a:hover {
@@ -119,7 +119,7 @@ h3 {
 
 .owl-theme .owl-dots .owl-dot.active span, 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #78C1F3;
+  background: #99627A;
 }
 
 .owl-theme .owl-dots {
@@ -138,11 +138,11 @@ h3 {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #78C1F3;
+  background-color: #99627A;
   width: 30px;
 }
 
@@ -204,7 +204,7 @@ ul {
   -webkit-box-shadow: unset;
           box-shadow: unset;
   outline: 0;
-  border: 1px solid #78C1F3;
+  border: 1px solid #99627A;
 }
 
 .form-control:hover:focus, .form-control:focus, 
@@ -311,7 +311,7 @@ textarea.form-control {
   text-align: center;
   overflow: hidden;
   z-index: 1;
-  background-color: #78C1F3;
+  background-color: #99627A;
   margin-bottom: -6px;
   font-weight: 500;
 }
@@ -323,7 +323,7 @@ textarea.form-control {
   right: 0;
   width: 0;
   height: 100%;
-  background-color: #122738;
+  background-color: #99627A;
   z-index: -1;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -333,11 +333,11 @@ textarea.form-control {
 .medic-default-btn.active {
   margin-left: 30px;
   color: #ffffff;
-  background-color: #122738;
+  background-color: #99627A;
 }
 
 .medic-default-btn.active::before {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .medic-default-btn:hover {
@@ -355,7 +355,7 @@ textarea.form-control {
 <<<<======================================================>>>>*/
 .read-more {
   line-height: 1;
-  color: #78C1F3;
+  color: #99627A;
   font-weight: 500;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -364,11 +364,11 @@ textarea.form-control {
 }
 
 .read-more:hover {
-  color: #122738;
+  color: #99627A;
 }
 
 .read-more:hover i {
-  color: #122738;
+  color: #99627A;
   -webkit-animation: rotation 0.5s linear infinite;
           animation: rotation 0.5s linear infinite;
 }
@@ -418,7 +418,7 @@ textarea.form-control {
 }
 
 .header-area .heading-left-part li a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .header-area .heading-left-part li i {
@@ -427,7 +427,7 @@ textarea.form-control {
   height: 30px;
   line-height: 30px;
   background-color: #def5ee;
-  color: #78C1F3;
+  color: #99627A;
   border-radius: 50%;
   text-align: center;
   font-size: 16px;
@@ -440,7 +440,7 @@ textarea.form-control {
 }
 
 .header-area .heading-left-part li:hover i {
-  background-color: #78C1F3;
+  background-color: #99627A;
   color: #ffffff;
 }
 
@@ -463,7 +463,7 @@ textarea.form-control {
   height: 30px;
   line-height: 30px;
   background-color: #def5ee;
-  color: #78C1F3;
+  color: #99627A;
   border-radius: 50%;
   text-align: center;
   font-size: 16px;
@@ -473,7 +473,7 @@ textarea.form-control {
 
 .header-area .heading-right-part li a:hover i {
   color: #ffffff;
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .header-area .heading-right-part li:first-child a {
@@ -542,7 +542,7 @@ textarea.form-control {
   top: -14px;
   width: 675px;
   height: 83px;
-  background-color: #78C1F3;
+  background-color: #99627A;
   z-index: -1;
   -webkit-clip-path: polygon(0 0, 90% 0, 100% 100%, 0% 100%);
           clip-path: polygon(0 0, 90% 0, 100% 100%, 0% 100%);
@@ -572,7 +572,7 @@ textarea.form-control {
   left: -5px;
   width: 2px;
   height: 60%;
-  background-color: #78C1F3;
+  background-color: #99627A;
   z-index: -1;
   -webkit-transform: scaleY(0);
           transform: scaleY(0);
@@ -588,7 +588,7 @@ textarea.form-control {
 }
 
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a:hover::before {
@@ -597,7 +597,7 @@ textarea.form-control {
 }
 
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item.active a {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item.active a::before {
@@ -616,7 +616,7 @@ textarea.form-control {
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   border-radius: 0;
-  border-top: 2px solid #78C1F3;
+  border-top: 2px solid #99627A;
   border-bottom: none;
   border-left: none;
   border-right: none;
@@ -646,7 +646,7 @@ textarea.form-control {
   left: -1px;
   width: 2px;
   height: 100%;
-  background-color: #78C1F3;
+  background-color: #99627A;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   -webkit-transform: scaleY(0);
@@ -662,7 +662,7 @@ textarea.form-control {
 }
 
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover::before {
@@ -676,7 +676,7 @@ textarea.form-control {
 }
 
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li.active > a {
-  color: #78C1F3;
+  color: #99627A;
   background: none;
 }
 
@@ -753,7 +753,7 @@ textarea.form-control {
   display: block;
   margin-bottom: 10px;
   font-weight: 500;
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .banner-content h1 {
@@ -781,7 +781,7 @@ textarea.form-control {
 }
 
 .about-content .top-title {
-  color: #78C1F3;
+  color: #99627A;
   font-size: 14px;
   display: block;
   margin-bottom: 10px;
@@ -822,7 +822,7 @@ textarea.form-control {
   text-align: center;
   border-radius: 50%;
   font-size: 16px;
-  color: #78C1F3;
+  color: #99627A;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   position: absolute;
@@ -831,7 +831,7 @@ textarea.form-control {
 }
 
 .about-content ul li:hover i {
-  background-color: #78C1F3;
+  background-color: #99627A;
   color: #ffffff;
   -webkit-transform: rotateY(360deg);
           transform: rotateY(360deg);
@@ -842,7 +842,7 @@ textarea.form-control {
 }
 
 .about-content-two .top-title {
-  color: #78C1F3;
+  color: #99627A;
   font-size: 14px;
   display: block;
   margin-bottom: 10px;
@@ -961,7 +961,7 @@ textarea.form-control {
   line-height: 60px;
   border-radius: 50%;
   text-align: center;
-  color: #78C1F3;
+  color: #99627A;
   margin-bottom: 16px;
   font-size: 35px;
   -webkit-transition: all 0.5s;
@@ -982,7 +982,7 @@ textarea.form-control {
 }
 
 .single-features:hover i {
-  background-color: #78C1F3;
+  background-color: #99627A;
   color: #ffffff;
   -webkit-transform: rotateY(360deg);
           transform: rotateY(360deg);
@@ -1040,7 +1040,7 @@ textarea.form-control {
   bottom: 0;
   width: 100%;
   height: 2px;
-  background-color: #78C1F3;
+  background-color: #99627A;
   border-radius: 4px;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -1051,7 +1051,7 @@ textarea.form-control {
   font-size: 30px;
   display: inline-block;
   margin-bottom: 20px;
-  color: #78C1F3;
+  color: #99627A;
   margin-bottom: 20px;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -1156,11 +1156,11 @@ textarea.form-control {
 }
 
 .choose-tab .tabs li:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .choose-tab .tabs li.current {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .why-choose-wrap {
@@ -1239,7 +1239,7 @@ textarea.form-control {
 
 .single-doctor .doctor-content {
   position: absolute;
-  background: #122738;
+  background: #99627A;
   width: 100%;
   bottom: 0;
   -webkit-transition: all 0.5s;
@@ -1272,7 +1272,7 @@ textarea.form-control {
 }
 
 .single-doctor ul li {
-  background: #122738;
+  background: #99627A;
   width: 40px;
   height: 40px;
   text-align: center;
@@ -1290,8 +1290,8 @@ textarea.form-control {
 }
 
 .single-doctor ul li:hover {
-  background-color: #78C1F3;
-  border-color: #78C1F3;
+  background-color: #99627A;
+  border-color: #99627A;
 }
 
 .single-doctor ul li a {
@@ -1365,7 +1365,7 @@ textarea.form-control {
   top: -30px;
   left: 0;
   right: 0;
-  border: 1px solid #78C1F3;
+  border: 1px solid #99627A;
   border-radius: 4px;
   width: 60px;
   height: 60px;
@@ -1412,7 +1412,7 @@ textarea.form-control {
 
 .faq-accordion h2 span {
   display: inline-block;
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .faq-accordion .accordion {
@@ -1456,7 +1456,7 @@ textarea.form-control {
 
 .faq-accordion .accordion .accordion-title.active i::before {
   content: "\eaf8";
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .faq-accordion .accordion .accordion-content {
@@ -1464,7 +1464,7 @@ textarea.form-control {
   position: relative;
   padding: 15px 20px;
   font-size: 15px;
-  border-top: 1px solid #78C1F3;
+  border-top: 1px solid #99627A;
   border-bottom: none;
   border-left: none;
   border-right: none;
@@ -1532,7 +1532,7 @@ textarea.form-control {
 }
 
 .single-blog .blog-content ul li a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .single-blog .blog-content h3 {
@@ -1555,15 +1555,15 @@ textarea.form-control {
 }
 
 .single-blog:hover .blog-content a h3 {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .single-blog:hover .blog-content .read-more {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .single-blog:hover .blog-content .read-more i {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .blog-area .btn-area {
@@ -1591,7 +1591,7 @@ textarea.form-control {
 .appointment-here-form .top-title {
   text-align: center;
   display: block;
-  color: #78C1F3;
+  color: #99627A;
   font-size: 14px;
 }
 
@@ -1606,7 +1606,7 @@ textarea.form-control {
   left: 20px;
   line-height: 1;
   font-size: 18px;
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .appointment-here-form .form-group .form-control {
@@ -1676,7 +1676,7 @@ textarea.form-control {
 }
 
 .table-condensed .prev:hover {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .table-condensed .next {
@@ -1688,7 +1688,7 @@ textarea.form-control {
 }
 
 .table-condensed .next:hover {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .table-condensed .day {
@@ -1701,7 +1701,7 @@ textarea.form-control {
 }
 
 .table-condensed .day:hover {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .appointment-img {
@@ -1770,7 +1770,7 @@ textarea.form-control {
 .cpp_form #fbuilder .pbreak .pbPrevious, 
 .cpp_form #fbuilder .pbreak .pbNext, 
 .cpp_form #fbuilder .pbSubmit {
-  background-color: #78C1F3;
+  background-color: #99627A;
   color: #fff;
   margin: 0;
 }
@@ -1778,7 +1778,7 @@ textarea.form-control {
 .cpp_form #fbuilder .pbreak .pbPrevious:hover, 
 .cpp_form #fbuilder .pbreak .pbNext:hover, 
 .cpp_form #fbuilder .pbSubmit:hover {
-  background-color: #122738;
+  background-color: #99627A;
 }
 
 /*
@@ -1836,7 +1836,7 @@ textarea.form-control {
 17 - FOOTER TOP AREA CSS
 <<<<======================================================>>>>*/
 .footer-top-area {
-  background-color: #122738;
+  background-color: #99627A;
 }
 
 .footer-top-area.f-bg-2 {
@@ -1901,7 +1901,7 @@ textarea.form-control {
   margin-bottom: 30px;
   display: block;
   color: #121521;
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .single-widget p, .widget p {
@@ -1946,7 +1946,7 @@ textarea.form-control {
 .single-widget ul li a:hover, .widget ul li a:hover {
   -webkit-transform: translateX(2px);
           transform: translateX(2px);
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .single-widget ul li i, .widget ul li i {
@@ -1972,7 +1972,7 @@ textarea.form-control {
   width: 30px;
   height: 30px;
   line-height: 36px;
-  background-color: #78C1F3;
+  background-color: #99627A;
   border-radius: 50px;
   text-align: center;
   color: #ffffff;
@@ -1986,7 +1986,7 @@ textarea.form-control {
 }
 
 .single-widget .social-area ul li a:hover {
-  border-color: #122738;
+  border-color: #99627A;
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
@@ -2008,7 +2008,7 @@ textarea.form-control {
   position: absolute;
   top: 4px;
   left: 0;
-  color: #78C1F3;
+  color: #99627A;
   font-size: 20px;
 }
 
@@ -2022,7 +2022,7 @@ textarea.form-control {
   position: absolute;
   left: 0;
   top: 4px;
-  color: #78C1F3;
+  color: #99627A;
   font-size: 20px;
 }
 
@@ -2035,7 +2035,7 @@ textarea.form-control {
 .single-widget.open-time li {
   padding-bottom: 15px;
   margin-bottom: 15px;
-  border-bottom: 1px solid #78C1F3;
+  border-bottom: 1px solid #99627A;
   border-top: none;
   border-left: none;
   border-right: none;
@@ -2074,7 +2074,7 @@ textarea.form-control {
 }
 
 .footer-bottom-area .copy-right p a {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .footer-bottom-area .copy-right p a:hover {
@@ -2099,7 +2099,7 @@ textarea.form-control {
 
 .single-counter i {
   background-color: #def5ee;
-  color: #78C1F3;
+  color: #99627A;
   font-size: 30px;
   line-height: 1;
   display: block;
@@ -2113,7 +2113,7 @@ textarea.form-control {
 }
 
 .single-counter p {
-  color: #78C1F3;
+  color: #99627A;
   line-height: 1;
   margin-bottom: 0;
   font-size: 18px;
@@ -2151,8 +2151,8 @@ textarea.form-control {
 .hero-slider-area .slider-item .slider-text {
   padding: 30px;
   max-width: 650px;
-  border-top: 5px dashed #122738;
-  border-left: 5px dashed #122738;
+  border-top: 5px dashed #99627A#99627A;
+  border-left: 5px dashed #99627A;
   position: relative;
   z-index: 1;
 }
@@ -2164,12 +2164,12 @@ textarea.form-control {
   left: 0;
   width: 70%;
   height: 10px;
-  border-bottom: 5px dashed #122738;
+  border-bottom: 5px dashed #99627A;
 }
 
 .hero-slider-area .slider-item .slider-text .top-title {
   margin-top: -7px;
-  color: #78C1F3;
+  color: #99627A;
   font-weight: 500;
   font-size: 15px;
   margin-bottom: 10px;
@@ -2243,7 +2243,7 @@ textarea.form-control {
 }
 
 .hero-slider-area .owl-next i {
-  color: #78C1F3;
+  color: #99627A;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -2252,11 +2252,11 @@ textarea.form-control {
   transition: all 0.5s;
   font-size: 26px;
   border-radius: 4px;
-  border: 1px solid #78C1F3;
+  border: 1px solid #99627A;
 }
 
 .hero-slider-area .owl-next i:hover {
-  background-color: #78C1F3;
+  background-color: #99627A;
   border-color: #ffffff;
   color: #ffffff;
 }
@@ -2275,7 +2275,7 @@ textarea.form-control {
 }
 
 .hero-slider-area .owl-prev i {
-  color: #78C1F3;
+  color: #99627A;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -2284,11 +2284,11 @@ textarea.form-control {
   transition: all 0.5s;
   font-size: 26px;
   border-radius: 4px;
-  border: 1px solid #78C1F3;
+  border: 1px solid #99627A;
 }
 
 .hero-slider-area .owl-prev i:hover {
-  background-color: #78C1F3;
+  background-color: #99627A;
   border-color: #ffffff;
   color: #ffffff;
 }
@@ -2385,7 +2385,7 @@ textarea.form-control {
   position: absolute;
   top: 7px;
   right: -7px;
-  background-color: #78C1F3;
+  background-color: #99627A;
   width: 10px;
   height: 10px;
   -webkit-clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
@@ -2401,11 +2401,11 @@ textarea.form-control {
 }
 
 .page-title-area .page-title-content ul li a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .page-title-area .page-title-content ul .active {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 /*
@@ -2431,7 +2431,7 @@ textarea.form-control {
 }
 
 .blog-details-left-area .blog-details-single-post ul li i {
-  color: #78C1F3;
+  color: #99627A;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
@@ -2442,17 +2442,17 @@ textarea.form-control {
 }
 
 .blog-details-left-area .blog-details-single-post ul li a i {
-  color: #78C1F3;
+  color: #99627A;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
 .blog-details-left-area .blog-details-single-post ul li a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .blog-details-left-area .blog-details-single-post ul li a:hover i {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .blog-details-left-area .blog-details-single-post ul li i {
@@ -2498,7 +2498,7 @@ textarea.form-control {
   left: 0;
   width: 2px;
   height: 100%;
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .blog-details-left-area .wp-block-quote p {
@@ -2562,7 +2562,7 @@ textarea.form-control {
 }
 
 .blog-details-left-area .blog-details-sheare .social-icon li a:hover {
-  color: #122738;
+  color: #99627A;
 }
 
 .blog-details-left-area .prev-next {
@@ -2662,7 +2662,7 @@ textarea.form-control {
 }
 
 .blog-details-left-area .profile .social-icon li a:hover {
-  color: #122738;
+  color: #99627A;
 }
 
 .comments-area.comments-wrap {
@@ -2812,7 +2812,7 @@ textarea.form-control {
   bottom: -1px;
   width: 50px;
   height: 1px;
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .blog-details-right-area .widget_block.widget_search .wp-block-search {
@@ -2843,25 +2843,25 @@ textarea.form-control {
   bottom: -1px;
   width: 50px;
   height: 1px;
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .blog-details-right-area .widget_block.widget_search .wp-block-search .wp-block-search__input:focus {
-  border-color: #78C1F3;
+  border-color: #99627A;
 }
 
 .blog-details-right-area .widget_block.widget_search .wp-block-search button {
   position: absolute;
   right: 0;
   height: 50px;
-  background-color: #78C1F3;
+  background-color: #99627A;
   color: #fff;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
 .blog-details-right-area .widget_block.widget_search .wp-block-search button:hover {
-  background-color: #122738;
+  background-color: #99627A;
 }
 
 .blog-details-right-area .widget_block.widget_search .wp-block-search button i {
@@ -2905,7 +2905,7 @@ textarea.form-control {
 
 .blog-details-right-area .widget_block ul li a:hover, 
 .blog-details-right-area .widget_block ol li a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .blog-details-right-area .widget_block.archives-widget ul li {
@@ -2934,11 +2934,11 @@ textarea.form-control {
 }
 
 .blog-details-right-area .widget_block.archives-widget ul li a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .blog-details-right-area .widget_block.archives-widget ul li a:hover span {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .blog-details-right-area .widget_block.categories-widget ul li {
@@ -2967,11 +2967,11 @@ textarea.form-control {
 }
 
 .blog-details-right-area .widget_block.categories-widget ul li a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .blog-details-right-area .widget_block.categories-widget ul li a:hover span {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .blog-details-right-area .widget_block.tags-widget ul li {
@@ -2991,7 +2991,7 @@ textarea.form-control {
 }
 
 .blog-details-right-area .widget_block.tags-widget ul li:hover {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .blog-details-right-area .widget_block.tags-widget ul li:hover a {
@@ -3035,7 +3035,7 @@ textarea.form-control {
 
 .contact-info-area .single-contact-info i {
   display: block;
-  color: #78C1F3;
+  color: #99627A;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   font-size: 25px;
@@ -3067,11 +3067,11 @@ textarea.form-control {
 }
 
 .contact-info-area .single-contact-info:hover {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .contact-info-area .single-contact-info:hover i {
-  color: #78C1F3;
+  color: #99627A;
   border-color: #ffffff;
   background-color: #ffffff;
 }
@@ -3121,7 +3121,7 @@ textarea.form-control {
   margin-top: 1px;
   margin-right: 10px;
   font-size: 20px;
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .get-in-touch h3 {
@@ -3148,7 +3148,7 @@ textarea.form-control {
 .get-in-touch ul li span {
   font-size: 16px;
   font-weight: 600;
-  color: #78C1F3;
+  color: #99627A;
   display: block;
   margin-bottom: 10px;
 }
@@ -3158,7 +3158,7 @@ textarea.form-control {
 }
 
 .get-in-touch ul li a:hover {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .contact-form h3 {
@@ -3190,19 +3190,19 @@ textarea.form-control {
 
 .contact-form-area .contact-form form input::-webkit-input-placeholder,
 .contact-form-area .contact-form form textarea::-webkit-input-placeholder {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .contact-form-area .contact-form form input::placeholder, 
 .contact-form-area .contact-form form textarea::placeholder {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .contact-form-area .contact-form form input:focus, 
 .contact-form-area .contact-form form textarea:focus {
   -webkit-box-shadow: none;
           box-shadow: none;
-  border-color: #78C1F3;
+  border-color: #99627A;
 }
 
 .contact-form-area .contact-form form input[type="submit"]:focus {
@@ -3216,9 +3216,9 @@ textarea.form-control {
 .contact-form-area .contact-form form input[type="submit"] {
   display: inline-block;
   text-align: center;
-  background-color: #78C1F3;
+  background-color: #99627A;
   color: #fff;
-  border: 2px solid #78C1F3;
+  border: 2px solid #99627A;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   position: relative;
@@ -3248,8 +3248,8 @@ textarea.form-control {
 }
 
 .contact-form-area .contact-form form input[type="submit"]:hover {
-  color: #78C1F3;
-  border: 2px solid #78C1F3;
+  color: #99627A;
+  border: 2px solid #99627A;
   background-color: transparent !important;
 }
 
@@ -3321,7 +3321,7 @@ MAP AREA CSS
 }
 
 .user-area-style .contact-form-action form .form-condition .agree-label a {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .user-area-style .contact-form-action form .form-group {
@@ -3339,13 +3339,13 @@ MAP AREA CSS
 }
 
 .user-area-style .contact-form-action .account-desc a {
-  color: #78C1F3;
+  color: #99627A;
   font-weight: 600;
 }
 
 .user-area-style .contact-form-action .forget {
   float: right;
-  color: #78C1F3;
+  color: #99627A;
   font-weight: 600;
 }
 
@@ -3356,7 +3356,7 @@ MAP AREA CSS
 }
 
 .user-area-style .contact-form-action .now-register a {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 /*
@@ -3379,7 +3379,7 @@ MAP AREA CSS
 .error-area .error-content-wrap h1 {
   font-size: 300px;
   line-height: 1;
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .error-area .error-content-wrap h3 {
@@ -3413,7 +3413,7 @@ Preloader Area Style*/
   width: 100%;
   height: 100%;
   position: fixed;
-  background-color: #78C1F3;
+  background-color: #99627A;
   top: 0;
   left: 0;
   z-index: 99999;
@@ -3484,7 +3484,7 @@ Go Top Style*/
   cursor: pointer;
   top: 120%;
   right: 5%;
-  background-color: #78C1F3;
+  background-color: #99627A;
   z-index: 4;
   width: 40px;
   text-align: center;
@@ -3533,7 +3533,7 @@ Video wave Style*/
   line-height: 89px;
   text-align: center;
   border-radius: 50px;
-  color: #78C1F3;
+  color: #99627A;
   position: relative;
   top: 3px;
   z-index: 1;
@@ -3584,7 +3584,7 @@ Video wave Style*/
 }
 
 .video-btn:hover {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 .video-btn:hover i {
@@ -3592,7 +3592,7 @@ Video wave Style*/
 }
 
 .video-btn:hover::after, .video-btn:hover::before {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 @-webkit-keyframes ripple {
@@ -3645,7 +3645,7 @@ Section Title Area Style*/
 }
 
 .section-title .top-title {
-  color: #78C1F3;
+  color: #99627A;
   font-size: 14px;
   display: block;
   margin-bottom: 10px;
@@ -3661,7 +3661,7 @@ Section Title Area Style*/
 }
 
 .section-title h2 span {
-  color: #78C1F3;
+  color: #99627A;
 }
 
 .section-title h2:last-child {
@@ -3709,7 +3709,7 @@ Page-navigation Area Style*/
 .pagination-area .page-numbers {
   width: 38px;
   height: 38px;
-  background-color: #78C1F3;
+  background-color: #99627A;
   color: #ffffff;
   text-align: center;
   display: inline-block;
@@ -3875,7 +3875,7 @@ body.page-template-dark-homepage {
 }
 
 .page-template-dark-homepage .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #78C1F3;
+  background-color: #99627A;
 }
 
 /*====================================================
